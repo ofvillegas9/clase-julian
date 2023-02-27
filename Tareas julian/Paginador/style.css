@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+table {
+    background-color: aqua;
+    background-position: 25px;
+}
+
+.dataTables_filter {
+    margin-bottom: 60px;
+
+}
